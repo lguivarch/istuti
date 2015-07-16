@@ -10,6 +10,8 @@ namespace IstutiConsole
     {
         static void Main(string[] args)
         {
+            Console.Title = "Hello World.";
         }
     }
 }
+
